@@ -263,6 +263,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
   - [The adventures of a Suricate in eBPF land](http://netdevconf.org/1.2/slides/oct6/10_suricata_ebpf.pdf)
   - [eBPF and XDP seen from the eyes of a meerkat](https://www.slideshare.net/ennael/kernel-recipes-2017-ebpf-and-xdp-eric-leblond)
 
+- [Netdata](https://learn.netdata.cloud/docs/agent/collectors/ebpf_process.plugin/) - A zero-configuration monitoring tool providing per second resolution for thousand of metrics expands eBPF support.
 - [Sysdig](https://github.com/draios/sysdig) - A tool for "universal system visibility with native support for containers", now supports eBPF.
 - [InKeV: In-Kernel Distributed Network Virtualization for DCN](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf)
 - [gobpf - utilizing eBPF from Go](https://fosdem.org/2017/schedule/event/go_bpf/) - A library to create, load and use eBPF programs from Go.
